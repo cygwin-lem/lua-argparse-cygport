@@ -1,5 +1,5 @@
 category: Lua
-requires:  lua52
+requires: lua52
 sdesc: "A feature-rich command-line argument parser"
 ldesc: "Argparse supports positional arguments, options, flags, optional
 arguments, subcommands and more. Argparse automatically generates
